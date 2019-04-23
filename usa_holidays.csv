@@ -3,7 +3,7 @@ Date,Holiday
 2013-01-21,Martin Luther King Jr. Day
 2013-02-18,Presidents' Day
 2013-04-16,Emancipation Day
-2013-05-12,Monther's Day
+2013-05-12,Mother's Day
 2013-05-27,Memorial Day
 2013-06-16,Father's Day
 2013-07-04,Independence Day
@@ -17,7 +17,7 @@ Date,Holiday
 2014-01-20,Martin Luther King Jr. Day
 2014-02-17,Presidents' Day
 2014-04-16,Emancipation Day
-2014-05-11,Monther's Day
+2014-05-11,Mother's Day
 2014-05-26,Memorial Day
 2014-06-15,Father's Day
 2014-07-04,Independence Day
@@ -31,7 +31,7 @@ Date,Holiday
 2015-01-19,Martin Luther King Jr. Day
 2015-02-16,Presidents' Day
 2015-04-16,Emancipation Day
-2015-05-10,Monther's Day
+2015-05-10,Mother's Day
 2015-05-25,Memorial Day
 2015-06-21,Father's Day
 2015-07-03,Independence Day
@@ -45,7 +45,7 @@ Date,Holiday
 2016-01-18,Martin Luther King Jr. Day
 2016-02-15,Presidents' Day
 2016-04-15,Emancipation Day
-2016-05-08,Monther's Day
+2016-05-08,Mother's Day
 2016-05-30,Memorial Day
 2016-06-19,Father's Day
 2016-07-04,Independence Day
@@ -59,7 +59,7 @@ Date,Holiday
 2017-01-16,Martin Luther King Jr. Day
 2017-02-20,Presidents' Day
 2017-04-17,Emancipation Day
-2017-05-14,Monther's Day
+2017-05-14,Mother's Day
 2017-05-29,Memorial Day
 2017-06-18,Father's Day
 2017-07-04,Independence Day
@@ -73,7 +73,7 @@ Date,Holiday
 2018-01-15,Martin Luther King Jr. Day
 2018-02-19,Presidents' Day
 2018-04-16,Emancipation Day
-2018-05-13,Monther's Day
+2018-05-13,Mother's Day
 2018-05-28,Memorial Day
 2018-06-17,Father's Day
 2018-07-04,Independence Day
@@ -87,7 +87,7 @@ Date,Holiday
 2019-01-15,Martin Luther King Jr. Day
 2019-02-18,Presidents' Day
 2019-04-16,Emancipation Day
-2019-05-12,Monther's Day
+2019-05-12,Mother's Day
 2019-05-27,Memorial Day
 2019-06-16,Father's Day
 2019-07-04,Independence Day
@@ -97,3 +97,7 @@ Date,Holiday
 2019-11-28,Thanksgiving
 2019-11-29,Day after Thanksgiving	
 2019-12-25,Christmas Day
+2016-02-14,Valentine's Day
+2017-02-14,Valentine's Day
+2018-02-14,Valentine's Day
+2019-02-14,Valentine's Day
